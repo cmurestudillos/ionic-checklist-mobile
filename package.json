@@ -7,7 +7,7 @@
     "setup": "npm install && npm run add:android && npm run add:ios",
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build && npm run build:android && npm run build:ios",
+    "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "lint": "ng lint",
